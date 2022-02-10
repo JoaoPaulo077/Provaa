@@ -8,7 +8,12 @@ Commit é um empacotamento de um grupo de alterações.
 É uma pasta onde vai ser colocada os arquivos do projeto.
 
 4) O que é merge?
-Much juntas a Branchs.
+Merge juntas a Branchs.
+
+5) O que é pull?
+É quando traz alteração do repositório remoto para o repositório local.
+
+
 
 
 
