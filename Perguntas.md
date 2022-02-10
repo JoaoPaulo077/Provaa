@@ -13,6 +13,9 @@ Merge juntas a Branchs.
 5) O que é pull?
 É quando traz alteração do repositório remoto para o repositório local.
 
+6) O que é Branch?
+É a Ramificação dos repositórios.
+
 
 
 
