@@ -7,6 +7,11 @@ Commit é um empacotamento de um grupo de alterações.
 3) o que é repositorio?
 É uma pasta onde vai ser colocada os arquivos do projeto.
 
+4) O que é merge?
+Much juntas a Branchs.
+
+
+
 
 
 
